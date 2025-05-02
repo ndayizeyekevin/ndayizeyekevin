@@ -18,9 +18,9 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 | Language & Frameworks              | Tools & Databases      | Other Skills             |
 | ---------------------------------- | ---------------------- | ------------------------ |
 | JavaScript, jQuery, AJAX           | MySQL, MongoDB         | Data Entry & Analysis    |
-| PHP (PDO), Node.js, Express.js     | Git & GitHub           | Networking               |
+| PHP (PDO), Node.js                 | Git & GitHub           | Networking               |
 | HTML5, CSS3, Bootstrap             | VS Code, PhpMyAdmin    | Project Management       |
-| Python                             |                        |                          |
+| Python                                                                                |
 
 ---
 
