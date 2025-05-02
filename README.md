@@ -27,8 +27,6 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 ### 🚀 Projects & Experience
 
 - **E-Clinics Website** (In Progress): Building a responsive healthcare appointment platform with secure AJAX-driven scheduling and notifications.
-- **Event Tickets Reservation System** (Academic): Built with PHP and SQL for efficient booking management.
-- **Chatbot for Historical Information**: Created a knowledge bot covering Rwandan history using Node.js.
 - **VacAI**: Project Manager for community engagement in a vacation planning mobile app, finished on **May 5, 2024**.
 - **Medication Insurance Management System**: My final year MIS project to automate prescription attachments and insurance claims, completed and defended on **October 10, 2024**.
 
