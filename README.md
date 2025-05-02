@@ -16,21 +16,21 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"     alt="PHP"        width="60" height="60"/>
-    &nbsp;
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    &nbsp;
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   alt="HTML5"      width="60" height="60"/>
-    &nbsp;
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"       alt="CSS3"       width="60" height="60"/>
-    &nbsp;
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"alt="Bootstrap"  width="60" height="60"/>
-    &nbsp;
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"     alt="MySQL"      width="60" height="60"/>
-    &nbsp;
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   alt="Node.js"    width="60" height="60"/>
-    &nbsp;
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python"     width="60" height="60"/>
-    &nbsp;
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"     alt="jQuery"     width="60" height="60"/>
 </p>
 
@@ -100,41 +100,49 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 ### 📫 Contact Me
 
 <p align="left">
+  <!-- Call -->
+  <a href="tel:+250786591604" title="Call">
+    <img
+      src="https://img.shields.io/badge/Call-0078D7?style=flat&logo=phone&logoColor=white"
+      alt="Call"
+      height="24"
+    />
+  </a><br>
 
   <!-- Email (Gmail) -->
   <a href="mailto:ndayizeyekevin6@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" 
          alt="Email" height="24"/>
   </a>
-  &nbsp;
+  <br>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/250786591604" title="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" 
          alt="WhatsApp" height="24"/>
   </a>
-  &nbsp;
+  <br>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ndayizeye_kevin" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" 
          alt="LinkedIn" height="24"/>
   </a>
-  &nbsp;
+  <br>
 
   <!-- Twitter -->
   <a href="https://x.com/ndayizeyekevin" target="_blank" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" 
          alt="Twitter" height="24"/>
   </a>
-  &nbsp;
+  <br>
 
   <!-- Instagram -->
   <a href="https://instagram.com/kevin_ndayizeye" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" 
          alt="Instagram" height="24"/>
   </a>
-  &nbsp;
+  <br>
 
   <!-- Website -->
   <a href="https://ndayizeye-portfolio.netlify.app/" target="_blank" title="Website">
