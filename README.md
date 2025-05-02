@@ -15,15 +15,23 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 ### 🖥️ Programming Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"     alt="PHP"        width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   alt="HTML5"      width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"       alt="CSS3"       width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"alt="Bootstrap"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"     alt="MySQL"      width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   alt="Node.js"    width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python"     width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"     alt="jQuery"     width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"     alt="PHP"        width="60" height="60"/>
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   alt="HTML5"      width="60" height="60"/>
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"       alt="CSS3"       width="60" height="60"/>
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"alt="Bootstrap"  width="60" height="60"/>
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"     alt="MySQL"      width="60" height="60"/>
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   alt="Node.js"    width="60" height="60"/>
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python"     width="60" height="60"/>
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"     alt="jQuery"     width="60" height="60"/>
 </p>
 
 ### 🔧 Technical Skills
@@ -38,11 +46,11 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 ---
 ### 🔧 Certificates
 
-| Certificate Name                          | Institution                        | Date Awarded     |
-|-------------------------------------------|------------------------------------|------------------|
-| AI Career Essentials                      | ALX Africa                         | May 2024         |
-| EF Level 14 - Advanced - CEFR Level C1    | EF (Education First)               | August 2025      |
-| Virtual Assistant                         | ALX Africa                         | September 2024   |
+| Certificate Name                          | Institution                        | Date Awarded     |Credential Link                                                                                              |
+|-------------------------------------------|------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------|
+| AI Career Essentials                      | ALX Africa                         | May 2024         |[View Certificate](https://intranet.alxswe.com/certificates/8CN5xFZ9yh)                                      |
+| EF Level 14 - Advanced - CEFR Level C1    | EF (Education First)               | August 2025      |[View Certificate](https://drive.google.com/file/d/1lWbdxGNCfWiPXPhDCcRhvPzPhzXM6lkV/view?usp=sharing)       |
+| Virtual Assistant                         | ALX Africa                         | September 2024   |[View Certificate](https://intranet.alxswe.com/certificates/S7xG6XPy8F)                                      |
 
 ---
 
@@ -57,14 +65,14 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 
 ### 🔁 Transferable Skills
 
-| Skill                 | Description                                 |
-|----------------------|---------------------------------------------|
-| Communication         | Clear, professional verbal and written skills |
-| Teamwork              | Strong collaborator in diverse teams         |
-| Problem Solving       | Analytical approach to complex issues        |
-| Time Management       | Efficient in prioritizing tasks and deadlines |
-| Adaptability          | Flexible with changing tools and roles       |
-| Project Coordination  | Skilled in planning and delivering results   |
+| Skill                 | Description                                      |
+|-----------------------|--------------------------------------------------|
+| Communication         | Clear, professional verbal and written skills    |
+| Teamwork              | Strong collaborator in diverse teams             |
+| Problem Solving       | Analytical approach to complex issues            |
+| Time Management       | Efficient in prioritizing tasks and deadlines    |
+| Adaptability          | Flexible with changing tools and roles           |
+| Project Coordination  | Skilled in planning and delivering results       |
 
 ### 🎓 Education
 
@@ -91,12 +99,32 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 
 ### 📫 Contact Me
 
-- 📧 ndayizeyekevin6@gmail.com
-- 📱 (+250) 786 591 604
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ndayizeye_kevin)
-- 🐦 [Twitter](https://x.com/ndayizeyekevin)
-- 📸 [Instagram](https://instagram.com/kevin_ndayizeye)
-- 🌍 Visit my website: [https://ndayizeye-portfolio.netlify.app/](https://ndayizeye-portfolio.netlify.app/)
+<p align="left">
+  <a href="mailto:ndayizeyekevin6@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/minutemailer/000000" alt="Email" width="24" height="24"/>
+  </a>
+  &nbsp;
+  <a href="tel:+250786591604" title="Phone">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="Phone" width="24" height="24"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ndayizeye_kevin" target="_blank" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="24" height="24"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/ndayizeyekevin" target="_blank" title="Twitter">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="24" height="24"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/kevin_ndayizeye" target="_blank" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="24" height="24"/>
+  </a>
+  &nbsp;
+  <a href="https://ndayizeye-portfolio.netlify.app/" target="_blank" title="Website">
+    <img src="https://cdn.simpleicons.org/internetarchive/000000" alt="Website" width="24" height="24"/>
+  </a>
+</p>
+
 
 ---
 
