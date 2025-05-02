@@ -99,7 +99,76 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 
 ### 📫 Contact Me
 
+### 📫 Contact Me
+
 <p align="left">
+  <!-- Email (Gmail) -->
+  <a href="mailto:ndayizeyekevin6@gmail.com" title="Email">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      alt="Email"
+      width="24"
+      height="24"
+      style="vertical-align:middle; margin-right:12px;"
+    />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/250786591604" title="WhatsApp">
+    <img
+      src="https://cdn.simpleicons.org/whatsapp/25D366"
+      alt="WhatsApp"
+      width="24"
+      height="24"
+      style="vertical-align:middle; margin-right:12px;"
+    />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ndayizeye_kevin" target="_blank" title="LinkedIn">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      alt="LinkedIn"
+      width="24"
+      height="24"
+      style="vertical-align:middle; margin-right:12px;"
+    />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/ndayizeyekevin" target="_blank" title="Twitter">
+    <img
+      src="https://cdn.simpleicons.org/twitter/1DA1F2"
+      alt="Twitter"
+      width="24"
+      height="24"
+      style="vertical-align:middle; margin-right:12px;"
+    />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/kevin_ndayizeye" target="_blank" title="Instagram">
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      alt="Instagram"
+      width="24"
+      height="24"
+      style="vertical-align:middle; margin-right:12px;"
+    />
+  </a>
+
+  <!-- Website -->
+  <a href="https://ndayizeye-portfolio.netlify.app/" target="_blank" title="Website">
+    <img
+      src="https://cdn.simpleicons.org/internetarchive/000000"
+      alt="Website"
+      width="24"
+      height="24"
+      style="vertical-align:middle;"
+    />
+  </a>
+</p>
+
   <a href="mailto:ndayizeyekevin6@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/minutemailer/000000" alt="Email" width="24" height="24"/>
   </a>
