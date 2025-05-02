@@ -99,100 +99,51 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 
 ### 📫 Contact Me
 
-### 📫 Contact Me
-
 <p align="left">
+
   <!-- Email (Gmail) -->
   <a href="mailto:ndayizeyekevin6@gmail.com" title="Email">
-    <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      alt="Email"
-      width="24"
-      height="24"
-      style="vertical-align:middle; margin-right:12px;"
-    />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" 
+         alt="Email" height="24"/>
   </a>
+  &nbsp;
 
   <!-- WhatsApp -->
   <a href="https://wa.me/250786591604" title="WhatsApp">
-    <img
-      src="https://cdn.simpleicons.org/whatsapp/25D366"
-      alt="WhatsApp"
-      width="24"
-      height="24"
-      style="vertical-align:middle; margin-right:12px;"
-    />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" 
+         alt="WhatsApp" height="24"/>
   </a>
+  &nbsp;
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ndayizeye_kevin" target="_blank" title="LinkedIn">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      alt="LinkedIn"
-      width="24"
-      height="24"
-      style="vertical-align:middle; margin-right:12px;"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" 
+         alt="LinkedIn" height="24"/>
   </a>
+  &nbsp;
 
   <!-- Twitter -->
   <a href="https://x.com/ndayizeyekevin" target="_blank" title="Twitter">
-    <img
-      src="https://cdn.simpleicons.org/twitter/1DA1F2"
-      alt="Twitter"
-      width="24"
-      height="24"
-      style="vertical-align:middle; margin-right:12px;"
-    />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" 
+         alt="Twitter" height="24"/>
   </a>
+  &nbsp;
 
   <!-- Instagram -->
   <a href="https://instagram.com/kevin_ndayizeye" target="_blank" title="Instagram">
-    <img
-      src="https://cdn.simpleicons.org/instagram/E4405F"
-      alt="Instagram"
-      width="24"
-      height="24"
-      style="vertical-align:middle; margin-right:12px;"
-    />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" 
+         alt="Instagram" height="24"/>
   </a>
+  &nbsp;
 
   <!-- Website -->
   <a href="https://ndayizeye-portfolio.netlify.app/" target="_blank" title="Website">
-    <img
-      src="https://cdn.simpleicons.org/internetarchive/000000"
-      alt="Website"
-      width="24"
-      height="24"
-      style="vertical-align:middle;"
-    />
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" 
+         alt="Website" height="24"/>
   </a>
+
 </p>
 
-  <a href="mailto:ndayizeyekevin6@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/minutemailer/000000" alt="Email" width="24" height="24"/>
-  </a>
-  &nbsp;
-  <a href="tel:+250786591604" title="Phone">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="Phone" width="24" height="24"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ndayizeye_kevin" target="_blank" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="24" height="24"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/ndayizeyekevin" target="_blank" title="Twitter">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="24" height="24"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/kevin_ndayizeye" target="_blank" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="24" height="24"/>
-  </a>
-  &nbsp;
-  <a href="https://ndayizeye-portfolio.netlify.app/" target="_blank" title="Website">
-    <img src="https://cdn.simpleicons.org/internetarchive/000000" alt="Website" width="24" height="24"/>
-  </a>
-</p>
 
 
 ---
