@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-I’m **Kevin NDAYIZEYE**, an IT college graduate from Integrated Polytechnic Regional College (IPRC) Ngoma. Passionate about building efficient software solutions, I specialize in full-stack development and data management.
+I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma College. Passionate about building efficient software solutions, I specialized in full-stack development and data management.
 
 ---
 
 ### 🏗️ Current Focus
 
 - Developing the **E-Clinics** website using **PHP (PDO)**, **AJAX**, **MySQL**, **CSS**, **HTML5**, **Bootstrap**, **JavaScript**, and **jQuery**.
-- Leading community engagement for **VacAI**, Waga’s vacation planning app for adventure-seekers.
-- Creating my final year project: **Medication Insurance Management System** to streamline digital prescription and insurance claim workflows in local pharmacies.
+- Leading community engagement for **VacAI**, Waga’s vacation planning app for adventure-seekers — project completed on **May 5, 2024**.
+- Completed my final year project: **Medication Insurance Management System**, successfully defended before an academic panel on **October 10, 2024**. The system streamlines digital prescription and insurance claim workflows in local pharmacies.
 - Preparing to enroll in a **Virtual Assistant Course** to expand my support and automation skills.
 
 ---
 
-### 🛠️ Technical Skills
+### 🔧 Technical Skills
 
 | Language & Frameworks              | Tools & Databases      | Other Skills             |
 | ---------------------------------- | ---------------------- | ------------------------ |
@@ -29,8 +29,8 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Integrated Polytechnic Re
 - **E-Clinics Website** (In Progress): Building a responsive healthcare appointment platform with secure AJAX-driven scheduling and notifications.
 - **Event Tickets Reservation System** (Academic): Built with PHP and SQL for efficient booking management.
 - **Chatbot for Historical Information**: Created a knowledge bot covering Rwandan history using Node.js.
-- **VacAI**: Project Manager for community engagement in a vacation planning mobile app.
-- **Medication Insurance Management System**: My final year MIS project to automate prescription attachments and insurance claims.
+- **VacAI**: Project Manager for community engagement in a vacation planning mobile app, finished on **May 5, 2024**.
+- **Medication Insurance Management System**: My final year MIS project to automate prescription attachments and insurance claims, completed and defended on **October 10, 2024**.
 
 ---
 
@@ -46,7 +46,10 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Integrated Polytechnic Re
 
 - 📧 ndayizeyekevin6@gmail.com
 - 📱 (+250) 786 591 604
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ndayizeyekevin)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ndayizeye_kevin)
+- 🐦 [Twitter](https://x.com/ndayizeyekevin)
+- 📸 [Instagram](https://instagram.com/kevin_ndayizeye)
+- 🌍 Visit my website: [https://ndayizeye-portfolio.netlify.app/](https://ndayizeye-portfolio.netlify.app/)
 
 ---
 
