@@ -141,13 +141,27 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 
 ### 📫 Contact Me
 
-[![Phone](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/phone.svg)](tel:+250786591604)
-[![Email](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg)](mailto:ndayizeyekevin6@gmail.com)
-[![WhatsApp](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg)](https://wa.me/250786591604)
-[![LinkedIn](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/ndayizeye_kevin)
-[![Twitter](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg)](https://x.com/ndayizeyekevin)
-[![Instagram](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg)](https://instagram.com/kevin_ndayizeye)
-[![Website](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg)](https://ndayizeye-portfolio.netlify.app/)
+<a href="tel:+250786591604">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20" height="20" alt="Phone"/>
+</a>
+<a href="mailto:ndayizeyekevin6@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg" width="20" height="20" alt="Email"/>
+</a>
+<a href="https://wa.me/250786591604">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/whatsapp.svg" width="20" height="20" alt="WhatsApp"/>
+</a>
+<a href="https://www.linkedin.com/in/kevinndayizeye">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg" width="20" height="20" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/ndayizeye_kevin">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/twitter.svg" width="20" height="20" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/kevin_ndayizeye">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/instagram.svg" width="20" height="20" alt="Instagram"/>
+</a>
+<a href="https://ndayizeye-portfolio.netlify.app/">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg" width="20" height="20" alt="Website"/>
+</a>
 
 ---
 
