@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma College. Passionate about building efficient software solutions, I specialized in full-stack development and data management.
+I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda Polytechnic Ngoma College. Motivated to deliver efficient software and IT solutions, I specialize in full-stack development (PHP PDO, JavaScript) and data management. I’ve successfully built and implemented projects like the Medication Insurance Management System (MIMS) and a Pharmacy Inventory System, and gained hands-on experience in technical support—troubleshooting, user assistance, and even CCTV installation and monitoring. I hold certificates in **Virtual Assistance** and **AI Career Essentials** from ALX Africa, as well as **EF Level 14 Advanced (CEFR C1)** from EF Education First. I’m a quick learner fluent in English and Kinyarwanda, eager to contribute my skills to innovative IT teams.  
+
+
 
 ---
 
@@ -8,31 +10,51 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 
 - Developing the **E-Clinics** website using **PHP (PDO)**, **AJAX**, **MySQL**, **CSS**, **HTML5**, **Bootstrap**, **JavaScript**, and **jQuery**.
 - Leading community engagement for **VacAI**, Waga’s vacation planning app for adventure-seekers — project completed on **May 5, 2024**.
-- Completed my final year project: **Medication Insurance Management System**, successfully defended before an academic panel on **October 10, 2024**. The system streamlines digital prescription and insurance claim workflows in local pharmacies.
 - Preparing to enroll in a **Virtual Assistant Course** to expand my support and automation skills.
 
 ---
+
+### 💼 Work Experience
+
+| Role                          | Company                                    | Period                     | Key Responsibilities                                                                                                                                         |
+|-------------------------------|---------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Junior Software Developer Intern | CodeGuru Ltd                             | Aug – Nov 2023, Jul – Nov 2024 | • Designed and maintained databases, ensuring high data accuracy and integrity<br>• Collaborated on back-end development and web app deployment<br>• Troubleshot issues and enhanced system performance through team collaboration |
+| Web Developer Intern          | Data Creative Corporation Trust (DCCT)      | 2019                       | • Developed and maintained user-friendly interfaces with a strong focus on data-driven functionalities<br>• Worked in a collaborative team environment to ensure timely delivery and quality standards |
+| Tech Support Intern           | Sigma Trading Company Ltd                   | Aug – Nov 2018             | • Provided technical support to end users<br>• Assisted in diagnosing and resolving hardware/software issues<br>• Documented support procedures and maintained service logs |
+
+---
+
+### 🚀 Projects & Experience
+
+- **E-Clinics Website** (In Progress): Building a responsive healthcare appointment platform with secure AJAX-driven scheduling and notifications.
+- **VacAI**: Project Manager for community engagement in a vacation planning mobile app, finished on **May 5, 2024**.
+- **Medication Insurance Management System**: My final year MIS project to automate prescription attachments and insurance claims, completed and defended on **October 10, 2024**.
+
+---
+
 ### 🖥️ Programming Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"     alt="PHP"        width="60" height="60"/>
-    <br>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    <br>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   alt="HTML5"      width="60" height="60"/>
-    <br>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"       alt="CSS3"       width="60" height="60"/>
-    <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"alt="Bootstrap"  width="60" height="60"/>
-    <br>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"  width="60" height="60"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"     alt="MySQL"      width="60" height="60"/>
-    <br>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   alt="Node.js"    width="60" height="60"/>
-    <br>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python"     width="60" height="60"/>
-    <br>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"     alt="jQuery"     width="60" height="60"/>
 </p>
+
+---
 
 ### 🔧 Technical Skills
 
@@ -44,24 +66,36 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 | Python                             |                        | Virtual Assistance                          |
 
 ---
+
+### 🎓 Education
+
+| Degree                                      | Institution                      | Awarding Institution                                 | Year |
+|---------------------------------------------|----------------------------------|-----------------------------------------------------|------|
+| Advanced Diploma in Information Technology  | Rwanda Polytechnic Ngoma College | Rwanda Polytechnic                                   | 2025 |
+| High School Diploma in Software Development | Institut de Rusororo/APAER       | National Examination and School Inspection Authority | 2025 |
+
+---
+
 ### 🔧 Certificates
 
-| Certificate Name                          | Institution                        | Date Awarded     |Credential Link                                                                                              |
+| Certificate Name                          | Institution                        | Date Awarded     | Credential Link                                                                                              |
 |-------------------------------------------|------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------|
-| AI Career Essentials                      | ALX Africa                         | May 2024         |[View Certificate](https://intranet.alxswe.com/certificates/8CN5xFZ9yh)                                      |
-| EF Level 14 - Advanced - CEFR Level C1    | EF (Education First)               | August 2025      |[View Certificate](https://drive.google.com/file/d/1lWbdxGNCfWiPXPhDCcRhvPzPhzXM6lkV/view?usp=sharing)       |
-| Virtual Assistant                         | ALX Africa                         | September 2024   |[View Certificate](https://intranet.alxswe.com/certificates/S7xG6XPy8F)                                      |
+| AI Career Essentials                      | ALX Africa                         | May 2024         | [View Certificate](https://intranet.alxswe.com/certificates/8CN5xFZ9yh)                                      |
+| EF Level 14 – Advanced (CEFR C1)           | EF (Education First)               | August 2025      | [View Certificate](https://drive.google.com/file/d/1lWbdxGNCfWiPXPhDCcRhvPzPhzXM6lkV/view?usp=sharing)       |
+| Virtual Assistant                         | ALX Africa                         | September 2024   | [View Certificate](https://intranet.alxswe.com/certificates/S7xG6XPy8F)                                      |
 
 ---
 
 ### 🗣️ Languages
 
-| Language       | Proficiency Level   |
-|----------------|---------------------|
-| English        | Fluent              |
-| Swahili        | Intermediate        |
-| French         | Beginner            |
-| Kinyarwanda    | Native              |
+| Language       | Proficiency Level |
+|----------------|-------------------|
+| English        | Fluent            |
+| Swahili        | Intermediate      |
+| French         | Beginner          |
+| Kinyarwanda    | Native            |
+
+---
 
 ### 🔁 Transferable Skills
 
@@ -73,19 +107,6 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 | Time Management       | Efficient in prioritizing tasks and deadlines    |
 | Adaptability          | Flexible with changing tools and roles           |
 | Project Coordination  | Skilled in planning and delivering results       |
-
-### 🎓 Education
-
-| Degree                                      | Institution                      |Awarding Institution                                 | Year      |
-|---------------------------------------------|----------------------------------|-----------------------------------------------------|-----------|
-| Advanced Diploma in Information Technology  | Rwanda Polytechnic Ngoma College |Rwanda Polytechnic                                   | 2025      |
-| High School Diploma in Software Development | Institut de Rusororo/APAER       |National Examination And School Inspection Authority | 2025      |
-
-### 🚀 Projects & Experience
-
-- **E-Clinics Website** (In Progress): Building a responsive healthcare appointment platform with secure AJAX-driven scheduling and notifications.
-- **VacAI**: Project Manager for community engagement in a vacation planning mobile app, finished on **May 5, 2024**.
-- **Medication Insurance Management System**: My final year MIS project to automate prescription attachments and insurance claims, completed and defended on **October 17, 2024**.
 
 ---
 
@@ -99,60 +120,13 @@ I’m **Kevin NDAYIZEYE**, an IT college graduate from Rwanda Polytechnic Ngoma 
 
 ### 📫 Contact Me
 
-<p align="left">
-  <!-- Call -->
-  <a href="tel:+250786591604" title="Call">
-    <img
-      src="https://img.shields.io/badge/Call-0078D7?style=flat&logo=phone&logoColor=white"
-      alt="Call"
-      height="24"
-    />
-  </a><br>
-
-  <!-- Email (Gmail) -->
-  <a href="mailto:ndayizeyekevin6@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" 
-         alt="Email" height="24"/>
-  </a>
-  <br>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/250786591604" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" 
-         alt="WhatsApp" height="24"/>
-  </a>
-  <br>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ndayizeye_kevin" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" height="24"/>
-  </a>
-  <br>
-
-  <!-- Twitter -->
-  <a href="https://x.com/ndayizeyekevin" target="_blank" title="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" 
-         alt="Twitter" height="24"/>
-  </a>
-  <br>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/kevin_ndayizeye" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" 
-         alt="Instagram" height="24"/>
-  </a>
-  <br>
-
-  <!-- Website -->
-  <a href="https://ndayizeye-portfolio.netlify.app/" target="_blank" title="Website">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" 
-         alt="Website" height="24"/>
-  </a>
-
-</p>
-
-
+[![Call](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg)](tel:+250786591604)  
+[![Email](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg)](mailto:ndayizeyekevin6@gmail.com)  
+[![WhatsApp](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/whatsapp.svg)](https://wa.me/250786591604)  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/ndayizeye_kevin)  
+[![Twitter](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/twitter.svg)](https://x.com/ndayizeyekevin)  
+[![Instagram](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/instagram.svg)](https://instagram.com/kevin_ndayizeye)  
+[![Website](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg)](https://ndayizeye-portfolio.netlify.app/)
 
 ---
 
