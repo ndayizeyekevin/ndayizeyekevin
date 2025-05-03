@@ -32,9 +32,11 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 ---
 
 ### 🖥️ Programming Languages & Tools
-🧠 Languages
-<p align="left"> <
-    img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/> 
+
+## 🧠 Languages
+
+<p align="left"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/> 
     &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/> 
     &nbsp; 
@@ -46,7 +48,9 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
     &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/> 
 </p>
-🌐 Front-End
+
+## 🌐 Front-End
+
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/> 
     &nbsp; 
@@ -56,10 +60,15 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
     &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="60" alt="jQuery"/> 
 </p>
-⚙️ Back-End / Runtime
+
+## ⚙️ Back-End / Runtime
+
 <p align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/> </p>
-🗃️ Database
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/> 
+</p>
+
+## 🗃️ Database
+
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/> 
     &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="SQLite"/> 
@@ -131,7 +140,7 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 ---
 
 ### 📫 Contact Me
-
+<p>
 <span style="font-size: 20px; color: #007BFF;">
   <a href="tel:+250786591604">
     <i class="fas fa-phone"></i>
@@ -167,7 +176,7 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
     <i class="fas fa-globe"></i>
   </a>
 </span>
-
+</p>
 ---
 
 Feel free to explore my repositories, and if you have any questions or collaboration ideas, let’s connect!
