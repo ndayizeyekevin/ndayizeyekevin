@@ -140,43 +140,15 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 ---
 
 ### 📫 Contact Me
-<p>
-<span style="font-size: 20px; color: #007BFF;">
-  <a href="tel:+250786591604">
-    <i class="fas fa-phone"></i>
-  </a>
-</span>
-<span style="font-size: 20px; color: #007BFF;">
-  <a href="mailto:ndayizeyekevin6@gmail.com">
-    <i class="fas fa-envelope"></i>
-  </a>
-</span>
-<span style="font-size: 20px; color: #25D366;">
-  <a href="https://wa.me/250786591604">
-    <i class="fab fa-whatsapp"></i>
-  </a>
-</span>
-<span style="font-size: 20px; color: #0A66C2;">
-  <a href="https://www.linkedin.com/in/ndayizeye_kevin">
-    <i class="fab fa-linkedin"></i>
-  </a>
-</span>
-<span style="font-size: 20px; color: #1DA1F2;">
-  <a href="https://x.com/ndayizeyekevin">
-    <i class="fab fa-twitter"></i>
-  </a>
-</span>
-<span style="font-size: 20px; color: #E1306C;">
-  <a href="https://instagram.com/kevin_ndayizeye">
-    <i class="fab fa-instagram"></i>
-  </a>
-</span>
-<span style="font-size: 20px; color: #000000;">
-  <a href="https://ndayizeye-portfolio.netlify.app/">
-    <i class="fas fa-globe"></i>
-  </a>
-</span>
-</p>
+
+[![Phone](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/phone.svg)](tel:+250786591604)
+[![Email](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg)](mailto:ndayizeyekevin6@gmail.com)
+[![WhatsApp](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg)](https://wa.me/250786591604)
+[![LinkedIn](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/ndayizeye_kevin)
+[![Twitter](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg)](https://x.com/ndayizeyekevin)
+[![Instagram](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg)](https://instagram.com/kevin_ndayizeye)
+[![Website](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg)](https://ndayizeye-portfolio.netlify.app/)
+
 ---
 
 Feel free to explore my repositories, and if you have any questions or collaboration ideas, let’s connect!
