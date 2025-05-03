@@ -3,7 +3,6 @@
 I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda Polytechnic Ngoma College. Motivated to deliver efficient software and IT solutions, I specialize in full-stack development (PHP PDO, JavaScript) and data management. I’ve successfully built and implemented projects like the Medication Insurance Management System (MIMS) and a Pharmacy Inventory System, and gained hands-on experience in technical support—troubleshooting, user assistance, and even CCTV installation and monitoring. I hold certificates in **Virtual Assistance** and **AI Career Essentials** from ALX Africa, as well as **EF Level 14 Advanced (CEFR C1)** from EF Education First. I’m a quick learner fluent in English and Kinyarwanda, eager to contribute my skills to innovative IT teams.  
 
 
-
 ---
 
 ### 🏗️ Current Focus
@@ -33,26 +32,39 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 ---
 
 ### 🖥️ Programming Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"     alt="PHP"        width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   alt="HTML5"      width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"       alt="CSS3"       width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"  width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"     alt="MySQL"      width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   alt="Node.js"    width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python"     width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"     alt="jQuery"     width="60" height="60"/>
+🧠 Languages
+<p align="left"> <
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/> 
+    &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/> 
+    &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP"/> 
+    &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C"/> 
+    &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/> 
+    &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/> 
 </p>
+🌐 Front-End
+<p align="left"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/> 
+    &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/> 
+    &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/> 
+    &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="60" alt="jQuery"/> 
+</p>
+⚙️ Back-End / Runtime
+<p align="left"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/> </p>
+🗃️ Database
+<p align="left"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/> 
+    &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="SQLite"/> 
+</p>
+
 
 ---
 
@@ -120,13 +132,41 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 
 ### 📫 Contact Me
 
-[![Call](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg)](tel:+250786591604)  
-[![Email](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg)](mailto:ndayizeyekevin6@gmail.com)  
-[![WhatsApp](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/whatsapp.svg)](https://wa.me/250786591604)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/ndayizeye_kevin)  
-[![Twitter](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/twitter.svg)](https://x.com/ndayizeyekevin)  
-[![Instagram](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/instagram.svg)](https://instagram.com/kevin_ndayizeye)  
-[![Website](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg)](https://ndayizeye-portfolio.netlify.app/)
+<span style="font-size: 20px; color: #007BFF;">
+  <a href="tel:+250786591604">
+    <i class="fas fa-phone"></i>
+  </a>
+</span>
+<span style="font-size: 20px; color: #007BFF;">
+  <a href="mailto:ndayizeyekevin6@gmail.com">
+    <i class="fas fa-envelope"></i>
+  </a>
+</span>
+<span style="font-size: 20px; color: #25D366;">
+  <a href="https://wa.me/250786591604">
+    <i class="fab fa-whatsapp"></i>
+  </a>
+</span>
+<span style="font-size: 20px; color: #0A66C2;">
+  <a href="https://www.linkedin.com/in/ndayizeye_kevin">
+    <i class="fab fa-linkedin"></i>
+  </a>
+</span>
+<span style="font-size: 20px; color: #1DA1F2;">
+  <a href="https://x.com/ndayizeyekevin">
+    <i class="fab fa-twitter"></i>
+  </a>
+</span>
+<span style="font-size: 20px; color: #E1306C;">
+  <a href="https://instagram.com/kevin_ndayizeye">
+    <i class="fab fa-instagram"></i>
+  </a>
+</span>
+<span style="font-size: 20px; color: #000000;">
+  <a href="https://ndayizeye-portfolio.netlify.app/">
+    <i class="fas fa-globe"></i>
+  </a>
+</span>
 
 ---
 
