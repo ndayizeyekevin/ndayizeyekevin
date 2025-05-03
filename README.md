@@ -33,7 +33,7 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 
 ### 🖥️ Programming Languages & Tools
 
-## 🧠 Languages
+#### 🧠 Languages
 
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/> 
@@ -49,7 +49,7 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/> 
 </p>
 
-## 🌐 Front-End
+#### 🌐 Front-End
 
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/> 
@@ -61,13 +61,13 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="60" alt="jQuery"/> 
 </p>
 
-## ⚙️ Back-End / Runtime
+#### ⚙️ Back-End / Runtime
 
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/> 
 </p>
 
-## 🗃️ Database
+#### 🗃️ Database
 
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/> 
@@ -141,27 +141,71 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 
 ### 📫 Contact Me
 
+<!-- Use icons with transparent backgrounds so they adapt to both light and dark modes -->
 <a href="tel:+250786591604">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20" height="20" alt="Phone"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg"
+    width="20"
+    height="20"
+    alt="Phone"
+    style="background-color: transparent;"
+  />
 </a>
 <a href="mailto:ndayizeyekevin6@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg" width="20" height="20" alt="Email"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg"
+    width="20"
+    height="20"
+    alt="Email"
+    style="background-color: transparent;"
+  />
 </a>
 <a href="https://wa.me/250786591604">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/whatsapp.svg" width="20" height="20" alt="WhatsApp"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/whatsapp.svg"
+    width="20"
+    height="20"
+    alt="WhatsApp"
+    style="background-color: transparent;"
+  />
 </a>
 <a href="https://www.linkedin.com/in/kevinndayizeye">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg" width="20" height="20" alt="LinkedIn"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg"
+    width="20"
+    height="20"
+    alt="LinkedIn"
+    style="background-color: transparent;"
+  />
 </a>
 <a href="https://x.com/ndayizeye_kevin">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/twitter.svg" width="20" height="20" alt="Twitter"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/twitter.svg"
+    width="20"
+    height="20"
+    alt="Twitter"
+    style="background-color: transparent;"
+  />
 </a>
 <a href="https://instagram.com/kevin_ndayizeye">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/instagram.svg" width="20" height="20" alt="Instagram"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/instagram.svg"
+    width="20"
+    height="20"
+    alt="Instagram"
+    style="background-color: transparent;"
+  />
 </a>
 <a href="https://ndayizeye-portfolio.netlify.app/">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg" width="20" height="20" alt="Website"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg"
+    width="20"
+    height="20"
+    alt="Website"
+    style="background-color: transparent;"
+  />
 </a>
+
 
 ---
 
