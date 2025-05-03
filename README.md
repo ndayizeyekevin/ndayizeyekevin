@@ -97,7 +97,7 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 
 ---
 
-### 🔧 Certificates
+### 📜 Certificates
 
 | Certificate Name                          | Institution                        | Date Awarded     | Credential Link                                                                                              |
 |-------------------------------------------|------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------|
