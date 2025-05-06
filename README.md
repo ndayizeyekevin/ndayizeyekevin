@@ -40,8 +40,6 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
     &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/> 
     &nbsp; 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP"/> 
-    &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C"/> 
     &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/> 
@@ -64,6 +62,8 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 #### ⚙️ Back-End / Runtime
 
 <p align="left"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP"/> 
+    &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/> 
 </p>
 
