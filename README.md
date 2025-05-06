@@ -7,10 +7,10 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 
 ### 🏗️ Current Focus
 
-- Developing the **E-Clinics** website using **PHP (PDO)**, **AJAX**, **MySQL**, **CSS**, **HTML5**, **Bootstrap**, **JavaScript**, and **jQuery**.
-- Leading community engagement for **VacAI**, Waga’s vacation planning app for adventure-seekers — project completed on **May 5, 2024**.
-- Preparing to enroll in a **Virtual Assistant Course** to expand my support and automation skills.
-
+- **Working on E-Clinics web app** building a secure back end, adding instant online appointment booking, and designing a friendly user interface—finishing the main features.
+- **Learning Java and JSP:** diving into Java programming and JSP for web development, focusing on building dynamic web applications.
+- **Exploring AI and Machine Learning:** studying AI and machine learning to understand their impact on software development and how they can improve user experiences.
+- Open to internships, freelance work, and entry-level positions to build hands-on experience and contribute effectively.
 ---
 
 ### 💼 Work Experience
