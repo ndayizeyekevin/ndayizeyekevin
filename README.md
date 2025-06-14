@@ -93,7 +93,7 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 | Degree                                      | Institution                      | Awarding Institution                                 | Year |
 |---------------------------------------------|----------------------------------|-----------------------------------------------------|------|
 | Advanced Diploma in Information Technology  | Rwanda Polytechnic Ngoma College | Rwanda Polytechnic                                   | 2025 |
-| High School Diploma in Software Development | Institut de Rusororo/APAER       | National Examination and School Inspection Authority | 2025 |
+| High School Diploma in Software Development | Institut de Rusororo/APAER       | National Examination and School Inspection Authority | 2021 |
 
 ---
 
@@ -102,7 +102,7 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 | Certificate Name                          | Institution                        | Date Awarded     | Credential Link                                                                                              |
 |-------------------------------------------|------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------|
 | AI Career Essentials                      | ALX Africa                         | May 2024         | [View Certificate](https://intranet.alxswe.com/certificates/8CN5xFZ9yh)                                      |
-| EF Level 14 – Advanced (CEFR C1)           | EF (Education First)               | August 2025      | [View Certificate](https://drive.google.com/file/d/1lWbdxGNCfWiPXPhDCcRhvPzPhzXM6lkV/view?usp=sharing)       |
+| EF Level 14 – Advanced (CEFR C1)           | EF (Education First)              | August 2024      | [View Certificate](https://drive.google.com/file/d/1lWbdxGNCfWiPXPhDCcRhvPzPhzXM6lkV/view?usp=sharing)       |
 | Virtual Assistant                         | ALX Africa                         | September 2024   | [View Certificate](https://intranet.alxswe.com/certificates/S7xG6XPy8F)                                      |
 
 ---
