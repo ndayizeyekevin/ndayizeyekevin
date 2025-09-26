@@ -5,24 +5,6 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 
 ---
 
-### 🏗️ Current Focus
-
-- **Working on E-Clinics web app** building a secure back end, adding instant online appointment booking, and designing a friendly user interface—finishing the main features.
-- **Learning Java and JSP:** diving into Java programming and JSP for web development, focusing on building dynamic web applications.
-- **Exploring AI and Machine Learning:** studying AI and machine learning to understand their impact on software development and how they can improve user experiences.
-- Open to internships, freelance work, and entry-level positions to build hands-on experience and contribute effectively.
----
-
-### 💼 Work Experience
-
-| Role                          | Company                                    | Period                     | Key Responsibilities                                                                                                                                         |
-|-------------------------------|---------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Junior Software Developer Intern | CodeGuru Ltd                             | Aug – Nov 2023, Jul – Nov 2024 | • Designed and maintained databases, ensuring high data accuracy and integrity<br>• Collaborated on back-end development and web app deployment<br>• Troubleshot issues and enhanced system performance through team collaboration |
-| Web Developer Intern          | Data Creative Corporation Trust (DCCT)      | Sept 2019 - Jan 2020                       | • Developed and maintained user-friendly interfaces with a strong focus on data-driven functionalities<br>• Worked in a collaborative team environment to ensure timely delivery and quality standards |
-| Tech Support Intern           | Sigma Trading Company Ltd                   | Aug – Nov 2018             | • Provided technical support to end users<br>• Assisted in diagnosing and resolving hardware/software issues<br>• Documented support procedures and maintained service logs |
-
----
-
 ### 🚀 Projects & Experience
 
 - **E-Clinics Website** (In Progress): Building a responsive healthcare appointment platform with secure AJAX-driven scheduling and notifications.
@@ -115,28 +97,6 @@ I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda P
 | Swahili        | Intermediate      |
 | French         | Beginner          |
 | Kinyarwanda    | Native            |
-
----
-
-### 🔁 Transferable Skills
-
-| Skill                 | Description                                      |
-|-----------------------|--------------------------------------------------|
-| Communication         | Clear, professional verbal and written skills    |
-| Teamwork              | Strong collaborator in diverse teams             |
-| Problem Solving       | Analytical approach to complex issues            |
-| Time Management       | Efficient in prioritizing tasks and deadlines    |
-| Adaptability          | Flexible with changing tools and roles           |
-| Project Coordination  | Skilled in planning and delivering results       |
-
----
-
-### 🌱 Learning & Growth
-
-- Advancing in **modern PHP development** (PDO and security best practices).
-- Deepening expertise in **AJAX-driven interfaces** and real-time user experiences.
-- Exploring **virtual assistant** capabilities and AI-driven automation.
-
 
 
 ---
