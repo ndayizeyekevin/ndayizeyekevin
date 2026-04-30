@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Kevin NDAYIZEYE**, an IT graduate with an Advanced Diploma from Rwanda Polytechnic. Motivated to deliver efficient software and IT solutions, I specialize in full-stack development (PHP PDO, JavaScript) and data management. I’ve successfully built and implemented projects like the Medication Insurance Management System (MIMS) and a Pharmacy Inventory System, and gained hands-on experience in technical support—troubleshooting, user assistance, and even CCTV installation and monitoring. I hold certificates in **Virtual Assistance** and **AI Career Essentials** from ALX Africa, as well as **EF Level 14 Advanced (CEFR C1)** from EF Education First. I’m a quick learner fluent in English and Kinyarwanda, eager to contribute my skills to innovative IT teams.  
+B.Tech in IT with experience in full-stack development and data systems. Expanding into computation methods, machine learning, deep learning, and blockchain. Focused on building smart, efficient, and real-world IT solutions. 
 
 
 ---
