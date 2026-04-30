@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-B.Tech in IT with experience in full-stack development and data systems. Expanding into computation methods, machine learning, deep learning, and blockchain. Focused on building smart, efficient, and real-world IT solutions. 
+Bachelor of Technology in IT with experience in full-stack development and data systems. Expanding into computation methods, machine learning, deep learning, and blockchain. Focused on building smart, efficient, and real-world IT solutions. 
 
 
 ---
