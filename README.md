@@ -5,17 +5,8 @@ Bachelor of Technology in IT with experience in full-stack development and data 
 
 ---
 
-### 🚀 Projects & Experience
-
-- **E-Clinics Website** (In Progress): Building a responsive healthcare appointment platform with secure AJAX-driven scheduling and notifications.
-- **VacAI**: Project Manager for community engagement in a vacation planning mobile app, finished on **May 5, 2024**.
-- **Medication Insurance Management System**: My final year MIS project to automate prescription attachments and insurance claims, completed and defended on **October 10, 2024**.
-
----
 
 ### 🖥️ Programming Languages & Tools
-
-#### 🧠 Languages
 
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/> 
@@ -29,8 +20,6 @@ Bachelor of Technology in IT with experience in full-stack development and data 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/> 
 </p>
 
-#### 🌐 Front-End
-
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/> 
     &nbsp; 
@@ -41,53 +30,20 @@ Bachelor of Technology in IT with experience in full-stack development and data 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="60" alt="jQuery"/> 
 </p>
 
-#### ⚙️ Back-End / Runtime
-
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP"/> 
     &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/> 
 </p>
 
-#### 🗃️ Database
-
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/> 
     &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="SQLite"/> 
 </p>
 
-
 ---
 
-### 🔧 Technical Skills
 
-| Language & Frameworks              | Tools & Databases      | Other Skills                                |
-| ---------------------------------- | ---------------------- | ------------------------------------------- |
-| JavaScript, jQuery, AJAX           | MySQL, MongoDB         | Data Entry & Analysis                       |
-| PHP (PDO), Node.js                 | Git & GitHub           | Networking, Computer H/W & S/W Maintenance  |
-| HTML5, CSS3, Bootstrap             | VS Code, PhpMyAdmin    | Project Management                          |
-| Python                             |                        | Virtual Assistance                          |
-
----
-
-### 🎓 Education
-
-| Degree                                      | Institution                      | Awarding Institution                                 | Year |
-|---------------------------------------------|----------------------------------|-----------------------------------------------------|------|
-| Advanced Diploma in Information Technology  | Rwanda Polytechnic Ngoma College | Rwanda Polytechnic                                   | 2025 |
-| High School Diploma in Software Development | Institut de Rusororo/APAER       | National Examination and School Inspection Authority | 2021 |
-
----
-
-### 📜 Certificates
-
-| Certificate Name                          | Institution                        | Date Awarded     | Credential Link                                                                                              |
-|-------------------------------------------|------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------|
-| AI Career Essentials                      | ALX Africa                         | May 2024         | [View Certificate](https://intranet.alxswe.com/certificates/8CN5xFZ9yh)                                      |
-| EF Level 14 – Advanced (CEFR C1)           | EF (Education First)              | August 2024      | [View Certificate](https://drive.google.com/file/d/1lWbdxGNCfWiPXPhDCcRhvPzPhzXM6lkV/view?usp=sharing)       |
-| Virtual Assistant                         | ALX Africa                         | September 2024   | [View Certificate](https://intranet.alxswe.com/certificates/S7xG6XPy8F)                                      |
-
----
 
 ### 🗣️ Languages
 
