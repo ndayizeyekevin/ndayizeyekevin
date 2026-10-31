@@ -61,7 +61,7 @@ flowchart LR
 | [**blockchain-escrow-system**](https://github.com/ndayizeyekevin/blockchain-escrow-system) | JavaScript | Blockchain-based escrow system |
 | [**blockchain-temperature-based-vaccine-logistics**](https://github.com/ndayizeyekevin/blockchain-temperature-based-vaccine-logistics) | JavaScript | Temperature-based vaccine logistics on the blockchain |
 | [**eth-upgradeable-vault-uups**](https://github.com/ndayizeyekevin/eth-upgradeable-vault-uups) | JavaScript · Solidity | Upgradeable Ethereum vault using the UUPS pattern |
-| [**smart-car-gate-system**](https://github.com/ndayizeyekevin/smart-car-gate-system) | Python | Smart car gate system |
+| [**smart-car-gate-system**](https://github.com/ndayizeyekevin/smart-car-gate-system) | Python, C | Smart car gate system |
 | [**diabetes_prediction**](https://github.com/ndayizeyekevin/diabetes_prediction) | Jupyter Notebook | Machine learning model for diabetes prediction |
 
 ---
