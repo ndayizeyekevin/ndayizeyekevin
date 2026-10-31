@@ -11,9 +11,6 @@
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square&logo=statuspage&logoColor=white" alt="Open to work" />
 <img src="https://img.shields.io/badge/Location-Kigali%2C%20Rwanda-DB2777?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=ndayizeyekevin&label=Profile%20Views&color=F97316&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/ndayizeyekevin?label=Followers&style=flat-square&color=F59E0B&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ndayizeyekevin?affiliations=OWNER&label=Stars%20Earned&style=flat-square&color=FBBF24&logo=github" alt="Stars" />
 
 </div>
 
